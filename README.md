@@ -112,11 +112,6 @@ console.log('Balance:', web3.utils.fromWei(balance, 'ether'));
          Passionate about blockchain, DeFi, and building real-world decentralized apps.
       </p>
     </section>
-
-  <section>
-      <h2>📜 License</h2>
-      <p>This project is licensed under the <strong>MIT License</strong>. Feel free to use, modify, and distribute it with attribution.</p>
-    </section>
   </main>
 
   <footer>
