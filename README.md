@@ -113,7 +113,13 @@ console.log('Balance:', web3.utils.fromWei(balance, 'ether'));
       </p>
     </section>
   </main>
+ ---
 
+## 📜 License
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for more information.
+
+---
   <footer>
     © 2025 <strong>Manu Codello</strong> — Building the future of decentralized finance.
   </footer>
